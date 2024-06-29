@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+}
+
+input{
+    box-shadow: none !important;
+    outline:  none !important;
+}
+
+span{
+    color: red;
+}
